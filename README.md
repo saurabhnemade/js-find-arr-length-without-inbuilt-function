@@ -1,0 +1,1 @@
+# Find array length in javascript without using inbuilt functions
